@@ -4,5 +4,5 @@ This repository contains the standard operating procedures (SOP) for the [Clinic
 
 ## Files
 
-1. __[CPIC_Database_SOP.pdf](CPIC_Database_SOP.pdf)__ = Database procedures and operations
-2. __[CPIC_Pharmacogene_Curation_SOP.pdf](CPIC_Pharmacogene_Curation_SOP.pdf)__ = Curation, variant evaluation, and reevaluation
+1. __[CPIC Database SOP.pdf](CPIC Database SOP.pdf)__ = Database procedures and operations
+2. __[CPIC Pharmacogene Curation SOP.pdf](CPIC Pharmacogene Curation SOP.pdf)__ = Curation, variant evaluation, and reevaluation
